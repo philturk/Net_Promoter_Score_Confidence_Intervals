@@ -1,4 +1,4 @@
-# CNet_Promoter_Score_Confidence_Intervals repo for "Coverage and Precision of Net Promoter Score Confidence Intervals Across Sampling Distributions"
+# Net_Promoter_Score_Confidence_Intervals repo for "Coverage and Precision of Net Promoter Score Confidence Intervals Across Sampling Distributions"
 
 Contains R code for:
 
